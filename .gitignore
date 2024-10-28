@@ -1,0 +1,12 @@
+# Ignorar archivos de configuración
+config/
+.env
+
+# Ignorar archivos de compilación
+*.log
+*.tmp
+*.exe
+
+main.py
+excel.xlsx
+
